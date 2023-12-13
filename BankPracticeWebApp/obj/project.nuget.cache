@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WY9V/7Bry06HalQd/sAQcXsXiH4gR1ewkBX/V9cBus/wX2uBnIoUbXMJXDPAlgK1VgHppqkDrVLL14g7syu6Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ltybj\\OneDrive\\Desktop\\.net\\BankPracticeWebApp\\BankPracticeWebApp\\BankPracticeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ltybj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

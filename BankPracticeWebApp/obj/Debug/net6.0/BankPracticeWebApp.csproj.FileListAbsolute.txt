@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.AssemblyInfoInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.AssemblyInfo.cs
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.RazorAssemblyInfo.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BankPracticeWebApp\BankPracticeWebApp\obj\Debug\net6.0\BankPracticeWebApp.RazorAssemblyInfo.cs
